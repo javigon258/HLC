@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/todo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="7"
+    tools:context=".MainActivity">
+
+    <TableRow
+        android:id="@+id/primeraFila"
+        style="@style/Fila">
+
+        <ImageView
+            android:id="@+id/boton00"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton01"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton02"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton03"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton04"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton05"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton06"
+            style="@style/Circulo" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/segundaFila"
+        style="@style/Fila">
+
+        <ImageView
+            android:id="@+id/boton10"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton11"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton12"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton13"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton14"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton15"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton16"
+            style="@style/Circulo" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/terceraFila"
+        style="@style/Fila">
+
+        <ImageView
+            android:id="@+id/boton20"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton21"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton22"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton23"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton24"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton25"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton26"
+            style="@style/Circulo" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/cuartaFila"
+        style="@style/Fila">
+
+        <ImageView
+            android:id="@+id/boton30"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton31"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton32"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton33"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton34"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton35"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton36"
+            style="@style/Circulo" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/quintaFila"
+        style="@style/Fila">
+
+        <ImageView
+            android:id="@+id/boton40"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton41"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton42"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton43"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton44"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton45"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton46"
+            style="@style/Circulo" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/sextaFila"
+        style="@style/Fila">
+
+        <ImageView
+            android:id="@+id/boton50"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton51"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton52"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton53"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton54"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton55"
+            style="@style/Circulo" />
+
+        <ImageView
+            android:id="@+id/boton56"
+            style="@style/Circulo" />
+    </TableRow>
+
+</TableLayout>
